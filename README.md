@@ -1,12 +1,10 @@
-# SpaceX
+# Alias
 
-> Тестовое задание на стажировку в Контур
+> Игра Alias Скажи иначе
 
-https://user-images.githubusercontent.com/65769624/163142826-3a6832b2-f9f2-4137-8cc0-e274fc2b3643.mp4
+https://user-images.githubusercontent.com/65769624/163334024-84c599f4-9f6c-4bfd-ad44-10c5586d2b56.mp4
 
 ## Стек технологий и используемые ресурсы
 1. UIKit, No Storyboard
-2. SDWebImage
-3. MVP
-4. API - https://api.spacexdata.com/v4/
+2. MVC
 
